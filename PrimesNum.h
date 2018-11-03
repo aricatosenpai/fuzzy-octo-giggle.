@@ -1,0 +1,3 @@
+
+
+int PrimesNum(int number);
